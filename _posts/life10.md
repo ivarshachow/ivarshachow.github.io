@@ -1,5 +1,5 @@
 ---
-date: 2019-06-14 09:00:00
+date: 2025-06-14 09:00:00
 layout: post
 title: I Stopped Romanticising Struggle and Things Became Clearer
 subtitle: 'Growth felt lighter when I stopped glorifying pain'
