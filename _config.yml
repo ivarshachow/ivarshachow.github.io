@@ -20,7 +20,7 @@ menu:
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
-# See: https://disqus.com/
+# See: https://disqus.com/d
 disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
