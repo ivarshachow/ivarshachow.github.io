@@ -26,4 +26,4 @@ Cookies may be used to improve site functionality and analytics. You can disable
 Our site may contain links to third-party websites. We are not responsible for their privacy practices.
 
 ## Contact
-For any privacy-related questions, contact: **youremail@test.com**
+For any privacy-related questions, contact us
