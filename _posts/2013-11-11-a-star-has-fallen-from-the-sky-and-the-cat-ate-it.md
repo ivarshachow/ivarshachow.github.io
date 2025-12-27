@@ -7,9 +7,9 @@ description: >-
   Engagement does not happen by chance. This post explains the habits that
   consistently improve engagement on Instagram.
 image: >-
-  https://picsum.photos/1200/700?random=13
+  https://picsum.photos/1200/700?random=9
 optimized_image: >-
-  https://picsum.photos/380/220?random=13
+  https://picsum.photos/380/220?random=9
 category: blog
 tags:
   - engagement
