@@ -1,5 +1,5 @@
 ---
-date: 2019-06-08 09:00:00
+date: 2025-06-08 09:00:00
 layout: post
 title: I Confused Being Busy With Moving Forward
 subtitle: 'Slowing down showed me what actually mattered'
