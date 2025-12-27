@@ -7,9 +7,9 @@ description: >-
   Burnout kills more Instagram journeys than failure. This post explains why it
   happens and how to grow sustainably.
 image: >-
-  https://picsum.photos/1200/700?random=13
+  https://picsum.photos/1200/700?random=3
 optimized_image: >-
-  https://picsum.photos/380/220?random=13
+  https://picsum.photos/380/220?random=3
 category: blog
 tags:
   - burnout
