@@ -7,9 +7,9 @@ description: >-
   Choosing the right niche decides how fast and how well you grow on Instagram.
   This post explains how to find a niche that works long term.
 image: >-
-  https://picsum.photos/1200/700?random=13
+  https://picsum.photos/1200/700?random=2
 optimized_image: >-
-  https://picsum.photos/380/220?random=13
+  https://picsum.photos/380/220?random=2
 category: blog
 tags:
   - niche
