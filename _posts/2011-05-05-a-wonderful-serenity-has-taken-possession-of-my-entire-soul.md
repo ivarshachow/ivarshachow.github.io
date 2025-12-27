@@ -7,9 +7,9 @@ description: >-
   Many creators feel invisible on Instagram despite posting regularly. This post
   explains why that happens and how to fix it.
 image: >-
-  https://res.cloudinary.com/demo/image/upload/v1/insta_long_4.jpg
+  https://picsum.photos/1200/700?random=13
 optimized_image: >-
-  https://res.cloudinary.com/demo/image/upload/c_scale,w_380/v1/insta_long_4.jpg
+  https://picsum.photos/380/220?random=13
 category: blog
 tags:
   - algorithm
