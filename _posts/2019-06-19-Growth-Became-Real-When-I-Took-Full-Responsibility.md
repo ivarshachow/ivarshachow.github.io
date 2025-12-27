@@ -1,5 +1,5 @@
 ---
-date: 2019-06-19 09:00:00
+date: 2025-06-19 09:00:00
 layout: post
 title: Growth Became Real When I Took Full Responsibility
 subtitle: 'Ownership changed everything'
