@@ -1,5 +1,5 @@
 ---
-date: 2019-05-22 09:15:00
+date: 2025-05-22 09:15:00
 layout: post
 title: How to Write Captions People Actually Read
 subtitle: 'Stop writing for the algorithm'
