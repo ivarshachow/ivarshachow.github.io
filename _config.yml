@@ -16,6 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Privacy Policy
+    url: /privacy-policy/
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
