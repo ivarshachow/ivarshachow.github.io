@@ -7,9 +7,9 @@ description: >-
   Many creators think consistency means posting every day. This post explains
   what consistency actually means and how to maintain it long term.
 image: >-
-  https://picsum.photos/1200/700?random=13
+  https://picsum.photos/1200/700?random=5
 optimized_image: >-
-  https://picsum.photos/380/220?random=13
+  https://picsum.photos/380/220?random=5
 category: blog
 tags:
   - consistency
