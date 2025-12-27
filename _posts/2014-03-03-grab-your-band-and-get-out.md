@@ -1,5 +1,5 @@
 ---
-date: 2019-05-29 09:30:00
+date: 2025-05-29 09:30:00
 layout: post
 title: How to Monetise Instagram Without Losing Trust
 subtitle: 'Money follows value, not pressure'
@@ -72,4 +72,5 @@ That is your signal.
 
 Protect trust like currency.  
 Money follows integrity.
+
 
