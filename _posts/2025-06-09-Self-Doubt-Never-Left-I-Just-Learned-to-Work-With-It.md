@@ -1,7 +1,7 @@
 ---
 date: 2025-06-09 09:00:00
 layout: post
-title: Self-Doubt Never Left, I Just Learned to Work With It
+title: Self-Doubt Never Left I Just Learned to Work With It
 subtitle: 'Confidence grew after I stopped waiting for certainty'
 description: >-
   This post explores how self-doubt remains part of growth and how learning to
