@@ -7,9 +7,9 @@ description: >-
   This final post reflects on how taking full responsibility for choices,
   actions, and outcomes transformed personal growth from theory into reality.
 image: >-
-  https://picsum.photos/1200/700?random=215
+  assets/img/uploads/my-photo.png
 optimized_image: >-
-  https://picsum.photos/380/220?random=215
+  assets/img/uploads/my-photo.png
 category: blog
 tags:
   - responsibility
