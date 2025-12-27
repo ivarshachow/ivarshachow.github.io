@@ -1,7 +1,7 @@
 ---
 date: 2025-06-13 09:00:00
 layout: post
-title: I Realised Rest Is a Skill, Not a Reward
+title: I Realised Rest Is a Skill Not a Reward
 subtitle: 'Burnout taught me what balance actually means'
 description: >-
   This post explores how ignoring rest delayed growth and how learning to rest
