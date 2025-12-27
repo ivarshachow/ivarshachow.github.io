@@ -1,7 +1,7 @@
 ---
 date: 2025-06-10 09:00:00
 layout: post
-title: I Learned That Consistency Is Emotional, Not Logical
+title: I Learned That Consistency Is Emotional Not Logical
 subtitle: 'Why knowing what to do was never the problem'
 description: >-
   This post reflects on how consistency depends more on emotional regulation than
