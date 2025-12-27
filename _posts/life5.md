@@ -1,5 +1,5 @@
 ---
-date: 2019-06-09 09:00:00
+date: 2025-06-09 09:00:00
 layout: post
 title: Self-Doubt Never Left, I Just Learned to Work With It
 subtitle: 'Confidence grew after I stopped waiting for certainty'
