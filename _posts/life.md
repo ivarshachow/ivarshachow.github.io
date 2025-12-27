@@ -1,5 +1,5 @@
 ---
-date: 2019-06-05 09:00:00
+date: 2025-06-05 09:00:00
 layout: post
 title: Growing Slowly Changed Me More Than Growing Fast Ever Could
 subtitle: 'Personal growth rarely feels like progress while it is happening'
