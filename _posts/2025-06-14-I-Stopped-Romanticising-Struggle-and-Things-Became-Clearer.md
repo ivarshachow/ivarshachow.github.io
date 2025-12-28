@@ -2,6 +2,7 @@
 date: 2025-06-14 09:00:00
 layout: post
 title: I Stopped Romanticising Struggle and Things Became Clearer
+buy_link: https://buy.stripe.com/test_28o3eN7FQ6kY8oM000
 subtitle: 'Growth felt lighter when I stopped glorifying pain'
 description: >-
   This post reflects on how glorifying struggle delayed real growth and how
