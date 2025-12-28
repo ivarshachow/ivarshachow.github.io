@@ -44,6 +44,32 @@
                 {% include toc.html %}
 
                 {{ content }}
+                {% if page.buy_link %}
+<hr style="margin:40px 0;">
+
+<div style="text-align:center; padding:30px 20px;">
+
+    <p style="font-size:17px; line-height:1.6; margin-bottom:20px;">
+        If this post helped you, you can support it by purchasing access.
+    </p>
+
+    <a href="{{ page.buy_link }}"
+       target="_blank"
+       style="
+         display:inline-block;
+         padding:14px 30px;
+         background:#000;
+         color:#fff;
+         text-decoration:none;
+         font-size:16px;
+         border-radius:4px;
+       ">
+       Buy This Content
+    </a>
+
+</div>
+{% endif %}
+
 
                 <!-- IN-CONTENT AD (336x280) -->
                 <div style="margin:35px 0;text-align:center;">
